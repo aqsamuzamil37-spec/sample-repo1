@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.codeActionsOnSave": {
+        
+    }
+}
